@@ -1,0 +1,29 @@
+{
+  "name": "basicnode",
+  "version": "1.0.0",
+  "description": "Basic node server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tapiwam/basicNode.git"
+  },
+  "keywords": [
+    "Node"
+  ],
+  "author": "Tapiwa Maruni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tapiwam/basicNode/issues"
+  },
+  "homepage": "https://github.com/tapiwam/basicNode#readme",
+  "dependencies": {
+    "body-parser": "^1.12.4",
+    "express": "^4.12.4",
+    "mongoose": "^4.0.4",
+    "morgan": "^1.5.3",
+    "socket.io": "^1.3.5"
+  }
+}
